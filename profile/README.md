@@ -36,4 +36,4 @@ This project is organized into several repositories. You can find detailed infor
 
 * **[calibra-client](https://github.com/calibrachain/calibra-client)**: The frontend application that allows users (auditors, labs, and clients) to interact with the blockchain and manage digital certificates.
   
-* **[calibra-laboratories-api](https://github.com/calibrachain/calibra-laboratories-api)**: The API service for accredited laboratories to issue and manage their digital calibration certificates.
+* **[calibra-laboratories-api](https://github.com/calibrachain/calibra-laboratories-api)**: The API service for accredited laboratories to issue and manage their digital calibration certificates (mocked while don´t exists official APIs).
