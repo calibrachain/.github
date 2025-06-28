@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_calibra.png" alt="Calibra Logo" width="400"/>
+  <img src="logo_calibra.png" alt="Calibra Logo" width="200"/>
 </p>
 
 # ✨Calibra✨
