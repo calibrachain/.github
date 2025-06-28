@@ -30,18 +30,10 @@ Our participation in the hackathon drives our mission to solve real-world proble
 
 This project is organized into several repositories. You can find detailed information about each component in its respective repository.
 
-* **[pitch](https://github.com/calibrachain/pitch)**
+* **[pitch](https://github.com/calibrachain/pitch)**: Contains the project's business plan, vision, and detailed pitch documentation for the hackathon.
+
+* **[calibra-contracts](https://github.com/calibrachain/calibra-contracts)**: Contains all the smart contracts that form the backbone of the Calibra protocol, with a special focus on integration with Chainlink Functions.
+
+* **[calibra-client](https://github.com/calibrachain/calibra-client)**: The frontend application that allows users (auditors, labs, and clients) to interact with the blockchain and manage digital certificates.
   
-Contains the project's business plan, vision, and detailed pitch documentation for the hackathon.
-
-* **[calibra-contracts](https://github.com/calibrachain/calibra-contracts)**
-
- Contains all the smart contracts that form the backbone of the Calibra protocol, with a special focus on integration with Chainlink Functions.
-
-* **[calibra-client](https://github.com/calibrachain/calibra-client)**
-
-  The frontend application that allows users (auditors, labs, and clients) to interact with the blockchain and manage digital certificates.
-  
-* **[calibra-laboratories-api](https://github.com/calibrachain/calibra-laboratories-api)**
-
-  The API service for accredited laboratories to issue and manage their digital calibration certificates.
+* **[calibra-laboratories-api](https://github.com/calibrachain/calibra-laboratories-api)**: The API service for accredited laboratories to issue and manage their digital calibration certificates.
