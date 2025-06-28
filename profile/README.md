@@ -2,7 +2,7 @@
   <img src="logo_calibra.png" alt="Calibra Logo" width="200"/>
 </p>
 
-# ✨Calibra✨
+# Calibra
 
 ## About the Project
 
